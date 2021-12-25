@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eea5f57b-fb89-4bea-a2b7-a83e94612b21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/externalDependencies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/Create a menu/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/Create a menu/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/Create a menu/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/First contact/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/First contact/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/First contact/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/Searching/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/Searching/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/Searching/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/Upgrade your contacts/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/Upgrade your contacts/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/Upgrade your contacts/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/task/src/contacts/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/task/src/contacts/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/task/src/contacts/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/task/src/contacts/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/task/src/contacts/StaticQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/task/test/ContactsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="22lprd7r66QzD22Iy36ss7yMCBq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eea5f57b-fb89-4bea-a2b7-a83e94612b21" name="Changes" comment="" />
+      <created>1640422227656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640422227656</updated>
+      <workItem from="1640422229358" duration="309000" />
+      <workItem from="1640422566865" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
