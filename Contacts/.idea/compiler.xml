@@ -3,6 +3,8 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="17">
       <module name="Contacts.Contacts-task.main" target="11" />
+      <module name="Contacts.Topics-Switch_expression-Days_of_the_week.main" target="11" />
+      <module name="Contacts.Topics-Switch_expression-Theory.main" target="11" />
       <module name="Contacts.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>
